@@ -1,0 +1,11 @@
+﻿PROG5 — vérification de l'environnement
+Date    : 2026-11-25 13:22
+Système : Windows 10.0.26200.0
+
+[OK] git 2.46.2.windows.1 (Zinedis <nantenainabakari@gmail.com>)
+[OK] java 21.0.11, mvn 3.9.16
+[OK] node v24.22.3, npm 11.19.1
+[OK] php 8.4.28, composer 2.11.3, symfony
+[OK] docker 29.9.3, image postgres:17
+
+Environnement prêt pour PROG5
